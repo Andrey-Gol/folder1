@@ -16,3 +16,8 @@ pwd
 dir (Windows) ls (Mac, Linux)
 ```
 
+Удаление файла (Windows)
+
+```sh
+del <filename>
+``````
