@@ -8,3 +8,11 @@ cd c:\folder_name
 Команда отображения текущей директории (ios/linux)
 ```sh
 pwd
+```
+
+Листинг текущей директории
+
+```sh
+dir (Windows) ls (Mac, Linux)
+```
+
